@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538382846295",
+    "firebase_url": "https://devita1202154291modul6.firebaseio.com",
+    "project_id": "devita1202154291modul6",
+    "storage_bucket": "devita1202154291modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538382846295:android:c8a11880c7afa2c6",
+        "android_client_info": {
+          "package_name": "id.odt.KHRISNA_1202154145_MODUL6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538382846295-mgbssvfe55bmvbbhqqkj83t4ia26h9lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.odt.KHRISNA_1202154145_MODUL6",
+            "certificate_hash": "78d9e9d824b1ae41ebb89e1e9c84b12d50afe38e"
+          }
+        },
+        {
+          "client_id": "538382846295-rge2vkkhlguh0jei5jhsqk60es17g2t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEniaVOXrsdPdbXTVHn52-0T6VWR6juIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538382846295-rge2vkkhlguh0jei5jhsqk60es17g2t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
